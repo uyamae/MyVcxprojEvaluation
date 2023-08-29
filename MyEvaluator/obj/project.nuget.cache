@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9D3/ixw0TbAARDcf38sCHVwJ8E43xq6Xm1PXH9y6b3XhABSSQdVnYblauiRhj39llCSKPuaWXTq2qzMC0c+lA==",
+  "success": true,
+  "projectFilePath": "D:\\proj\\test\\clang\\MyEvaluation\\MyEvaluator\\MyEvaluator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.build\\17.7.0\\microsoft.build.17.7.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.build.framework\\17.7.0\\microsoft.build.framework.17.7.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.build.utilities.core\\17.7.0\\microsoft.build.utilities.core.17.7.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.net.stringtools\\17.7.0\\microsoft.net.stringtools.17.7.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.visualstudio.setup.configuration.interop\\3.2.2146\\microsoft.visualstudio.setup.configuration.interop.3.2.2146.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.reflection.metadataloadcontext\\7.0.0\\system.reflection.metadataloadcontext.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
+    "C:\\Users\\uyamae\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
